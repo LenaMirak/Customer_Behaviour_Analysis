@@ -1,5 +1,6 @@
 # Customer_Behaviour_Analysis
 Data analystics project showcasing customer behaviour analysis using Python, SQL and Power BI.
+
 📌 Project Overview
 
 This project analyzes customer shopping behavior to identify purchasing patterns, explore customer segments, and understand spending trends. It combines Python, SQL, MySQL, and Power BI to transform raw customer data into meaningful business insights.
